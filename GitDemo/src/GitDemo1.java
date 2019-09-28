@@ -11,6 +11,8 @@ public class GitDemo1 {
 		
 		//Code added by Colleague (Mmayen)
 		
+		//Trying the pull command in one shot : fetch + merge = Pull 
+		
 		
 	}
 
